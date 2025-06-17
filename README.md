@@ -16,6 +16,8 @@ or
 `./directory/halloween.sh`
 
 after following the commands
+
+its basic linux bro
 # Crostini/Debian
 `chmod +x ./halloween.sh`
 
