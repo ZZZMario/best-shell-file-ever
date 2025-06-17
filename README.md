@@ -6,9 +6,10 @@ THE BEST THING TO EXISTENCE.
 
 `./halloween.sh`
 # Arch Linux
+Ensure bash is installed
+
 `sudo pacman -S bash`
 
-Ensure bash is installed first, though
 
 `chmod +x ./halloween.sh`
 
