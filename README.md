@@ -1,7 +1,7 @@
 # best-shell-file-ever
 THE BEST THING TO EXISTENCE.
 
-Using `./halloween.sh` assuming the file is in the root of your *./home* folder on your Linux.
+Using `./halloween.sh` assuming the file is in the root of your *./home/username* folder on your Linux.
 You can alter the command a little:
 
 either using,
